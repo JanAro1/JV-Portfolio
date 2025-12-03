@@ -3,7 +3,7 @@ import './About.css';
 
 const About = () => {
   const handleViewResume = () => {
-    // Open resume in new tab (adjust path to your resume)
+    // Open resume in new tab
     window.open('/resume.pdf', '_blank');
   };
 
